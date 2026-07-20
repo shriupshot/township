@@ -183,7 +183,7 @@ const DB = {
   burrito:     {name:"Burrito", emoji:"🌯", building:"Mexican Factory", time:60, ingredients:[{id:"wheat", qty:2},{id:"bacon", qty:2},{id:"tomato", qty:1}]},
   nachos:      {name:"Nachos", emoji:"🧀", building:"Mexican Factory", time:180, ingredients:[{id:"chips", qty:1},{id:"cheese", qty:1},{id:"pepper", qty:2}]},
   taco:        {name:"Taco", emoji:"🌮", building:"Mexican Factory", time:90, ingredients:[{id:"corn", qty:3},{id:"cream", qty:1},{id:"tomato", qty:2},{id:"pepper", qty:2}]},
-  bacon_wrap:  {name:"Bacon Wrap", emoji:"🥓", building:"Mexican Factory", time:120, ingredients:[{id:"pepper", qty:2},{id:"bacon", qty:1},{id:"cheese", qty:1}]},
+  bacon_wrap:  {name:"Bacon-Wrapped", emoji:"🥓", building:"Mexican Factory", time:120, ingredients:[{id:"pepper", qty:2},{id:"bacon", qty:1},{id:"cheese", qty:1}]},
 
   // STATIONERY FACTORY
   eraser:          {name:"Eraser", emoji:"🧼", building:"Stationery Factory", time:120, ingredients:[{id:"rubber_tree", qty:3}]},
