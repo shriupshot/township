@@ -97,7 +97,7 @@ const DB = {
 
   // SNACK FACTORY
   popcorn:      {name:"Popcorn", emoji:"🍿", building:"Snack Factory", time:20, ingredients:[{id:"corn", qty:2}]},
-  chips:        {name:"Chips", emoji:"🥐", building:"Snack Factory", time:30, ingredients:[{id:"corn", qty:3}]},
+  chips:        {name:"Corn Chips", emoji:"🥐", building:"Snack Factory", time:30, ingredients:[{id:"corn", qty:3}]},
   granola:      {name:"Granola", emoji:"🥣", building:"Snack Factory", time:40, ingredients:[{id:"wheat", qty:2},{id:"strawberry", qty:2}]},
   potato_chips: {name:"Potato Chips", emoji:"🥔", building:"Snack Factory", time:2, ingredients:[{id:"potato", qty:2}]},
   canape:       {name:"Canapé", emoji:"🥪", building:"Snack Factory", time:15, ingredients:[{id:"olives", qty:2},{id:"grapes", qty:2},{id:"cheese", qty:1}]},
